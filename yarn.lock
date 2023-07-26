@@ -5906,6 +5906,7 @@ gatsby-source-filesystem@^5.0.0, gatsby-source-filesystem@^5.0.0-next, gatsby-so
     gatsby-theme-landing-page "1.0.2"
     react "^18.2.0"
     react-dom "^18.2.0"
+    yarn "^1.22.19"
 
 gatsby-telemetry@^4.11.0:
   version "4.11.0"
