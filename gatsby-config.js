@@ -24,7 +24,7 @@ if (!spaceId || !accessToken) {
 // starter config
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Landing Page",
+    title: "AVO Mobile Detailing",
     description:
       "Create custom landing pages using Gatsby and Contentful with this Gatsby Starter",
   },
@@ -36,8 +36,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Landing Page`,
-        short_name: `Gatsby Starter Landing Page`,
+        name: `AVO Mobile Detailing`,
+        short_name: `AVO Mobile Detailing`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#000`,
