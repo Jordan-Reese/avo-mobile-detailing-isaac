@@ -25,8 +25,7 @@ if (!spaceId || !accessToken) {
 module.exports = {
   siteMetadata: {
     title: "AVO Mobile Detailing",
-    description:
-      "Create custom landing pages using Gatsby and Contentful with this Gatsby Starter",
+    description: "Austin's Very Own (AVO) Mobile Detailing",
   },
   plugins: [
     {
