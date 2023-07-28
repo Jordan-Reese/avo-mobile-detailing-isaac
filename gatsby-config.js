@@ -24,8 +24,8 @@ if (!spaceId || !accessToken) {
 // starter config
 module.exports = {
   siteMetadata: {
-    title: "AVO Mobile Detailing",
-    description: "Austin's Very Own (AVO) Mobile Detailing",
+    title: `AVO Mobile Detailing`,
+    description: `Austin's Very Own (AVO) Mobile Detailing`,
   },
   plugins: [
     {
@@ -41,7 +41,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#000`,
         display: `browser`,
-        icon: `src/assets/gatsby-monogram.png`,
+        icon: `src/assets/AVO Mobile Detailing Logo Color.png`,
       },
     },
   ],
